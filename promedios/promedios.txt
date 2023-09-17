@@ -1,0 +1,5 @@
+marco: 69.25
+julio: 70.75
+cesar: 88.75
+kevin: 63.00
+sofia: 55.00
